@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main()
+void main()
 {
 	double a, b, c, sqrtD, res1, res2;
 	printf_s("a="); scanf_s("%lf", &a);
